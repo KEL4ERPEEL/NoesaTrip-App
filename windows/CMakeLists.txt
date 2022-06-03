@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(noesatrip_app LANGUAGES CXX)
+project(abp_flutter LANGUAGES CXX)
 
-set(BINARY_NAME "noesatrip_app")
+set(BINARY_NAME "abp_flutter")
 
 cmake_policy(SET CMP0063 NEW)
 

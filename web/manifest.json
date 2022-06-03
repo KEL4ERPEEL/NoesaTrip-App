@@ -1,6 +1,6 @@
 {
-    "name": "noesatrip_app",
-    "short_name": "noesatrip_app",
+    "name": "abp_flutter",
+    "short_name": "abp_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

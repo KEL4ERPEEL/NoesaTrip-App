@@ -1,4 +1,4 @@
-package com.example.noesatrip_app
+package com.example.abp_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
